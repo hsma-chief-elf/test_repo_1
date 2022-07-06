@@ -1,0 +1,7 @@
+# data input files
+*.csv
+
+# folder containing raw data
+raw_data/
+
+
